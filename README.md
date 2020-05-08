@@ -2,7 +2,7 @@
 
 Use this tool to build date-selector for your form-inputs.
 
-![Visual Example](https://i.imgur.com/j3flr7y.jpg)
+![Visual Example](https://i.imgur.com/Ay8KYFV.jpg)
 With this calendar, we use the benefits of `CSS Grid` to create calendar layouts. 
 
 To use this calendar, enclose a `Text input` inside a container `div`. 
