@@ -1,6 +1,8 @@
 # Calendar Form for Date Input
 
-With this calendar, we use the benefits of `CSS Grid` to create calendar layout. 
+Use this tool to build date-selector for your form-inputs.
+
+With this calendar, we use the benefits of `CSS Grid` to create calendar layouts. 
 
 To use this calendar, enclose a `Text input` inside a container `div`. 
 ```
