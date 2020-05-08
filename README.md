@@ -1,6 +1,6 @@
 # Date Input Calendar for Forms
 
-Use this tool to build date-selector for your form-inputs. [Demo](https://shahrukh.dev/Form-Calendar-Input/)
+Use this tool to build date-selector for your form-inputs. [Live Demo](https://shahrukh.dev/Form-Calendar-Input/)
 
 ![Visual Example](https://i.imgur.com/Ay8KYFV.jpg)
 With this calendar, we use the benefits of `CSS Grid` to create calendar layouts. 
