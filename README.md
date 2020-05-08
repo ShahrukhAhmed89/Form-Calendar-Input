@@ -1,4 +1,4 @@
-# Calendar Date Input for Forms
+# Date Input Calendar for Forms
 
 Use this tool to build date-selector for your form-inputs.
 
